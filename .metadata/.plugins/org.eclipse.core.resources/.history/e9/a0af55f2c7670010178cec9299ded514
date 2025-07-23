@@ -1,7 +1,0 @@
-package learning;
-
-public class Practice {
-	public static void main(String[] args) {
-		
-	}
-}
