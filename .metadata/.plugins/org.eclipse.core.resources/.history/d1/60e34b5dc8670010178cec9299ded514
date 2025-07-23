@@ -1,0 +1,12 @@
+package learning;
+void print() {
+	System.out.println("Hii");
+}
+public class Practice {
+	static class print{
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+}

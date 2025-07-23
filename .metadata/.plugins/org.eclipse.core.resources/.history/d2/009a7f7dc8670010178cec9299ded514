@@ -1,0 +1,14 @@
+package learning;
+
+class car{
+	static void color() {
+		System.out.println("Red");
+	}
+}
+public class Practice {
+
+	public static void main(String[] args) {
+		car c1 = new car();
+		c1.color();
+	}
+}
