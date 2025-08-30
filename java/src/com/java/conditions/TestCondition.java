@@ -1,4 +1,4 @@
-package com.java.testCondition;
+package com.java.conditions;
 import java.util.Scanner;
 public class TestCondition {
 
